@@ -1,1 +1,0 @@
-Node Version: 16.10.0
